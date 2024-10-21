@@ -29,17 +29,12 @@ A snapshot of customer data was provided, encompassing demographics, purchasing 
 
 ![Membership Optimisation](images/membership_optimisation.png)
 
-### 4. Targeted Marketing
-- Method: Analysed customer behaviour to refine targeted campaigns and promotions.
-- Impact: Enabled focused marketing efforts towards high-value customers and regions with untapped potential.
+### 4. Profit Impact of Cost and Spending Adjustments
+- Approach: Applied equal percentage adjustments to spending increase and cost decrease (e.g., 10% each).
+- Findings: Profit increases from cost reduction were significantly higher than from spending increases, especially in the health and grocery departments.
+- Outcome: Highlighted that these departments suffer from either excessively high costs or low profit margins.
 
-![Targeted Marketing](images/targeted_marketing.png)
-
-### 5. Product Alignment
-- Objective: Ensured product offerings met regional and membership preferences.
-- Benefit: Aligned products with customer needs to enhance satisfaction and sales performance.
-
-![Product Alignment](images/product_alignment.png)
+![Targeted Marketing](images/adjusted_profit_analysis.png)
 
 ## Dashboard Design
 I constructed a dynamic and interactive dashboard in Power BI that empowers decision-makers to:
