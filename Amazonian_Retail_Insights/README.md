@@ -49,7 +49,7 @@ My analysis revealed compelling insights into customer behaviour and performance
 - Growth Opportunities: Identified untapped customer segments and underperforming product categories for strategic initiatives.
 
 ## Recommendations
-- Targeted Marketing and Retention Strategies: Implement tailored campaigns focusing on high-value customers and regions with potential. Prioritise retention in departments with low membership rates.
+- Targeted Marketing and Retention Strategies: Recommended tailored campaigns focusing on high-value customers and regions with potential. Prioritise retention in departments with low membership rates.
 - Profitability Optimisation: Dive deeper into low-margin departments to find cost-saving or revenue-enhancing opportunities. Consider adjusting pricing or product assortment.
 - Product Alignment: Adjust product offerings to meet regional preferences and membership needs.
 
