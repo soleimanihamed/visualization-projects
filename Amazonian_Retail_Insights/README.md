@@ -5,7 +5,7 @@ In this project, I embarked on a data-driven journey to uncover hidden patterns 
 
 ## Dashboard Preview
 Here is an overview of the interactive dashboard created for this project:
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ## Data Source and Preparation
 A snapshot of customer data was provided, encompassing demographics, purchasing behaviour, and membership details. I meticulously transformed this raw data using advanced Excel functions and crafted a robust data model in Power BI. This foundation ensured high data quality and enabled actionable insights.
@@ -15,26 +15,26 @@ A snapshot of customer data was provided, encompassing demographics, purchasing 
 - Techniques Used: Applied advanced analytics to identify distinct customer segments based on geography, spending habits, and membership status.
 - Outcome: Uncovered significant variations in customer spending and loyalty across different regions and membership tiers.
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](Images/customer_segmentation.png)
 
 ### 2. Sales Analysis
 - Approach: Provided a comprehensive view of sales performance across various regions and product categories.
 - Findings: Identified profitability hotspots where certain geographic areas and product categories drive disproportionate profit margins.
 
-![Sales Performance](images/sales_performance.png)
+![Sales Performance](Images/sales_performance.png)
 
 ### 3. Membership Optimisation
 - Strategy: Analysed membership structures to improve customer loyalty and retention.
 - Result: Recommended adjustments to membership offerings based on data insights.
 
-![Membership Optimisation](images/membership_optimisation.png)
+![Membership Optimisation](Images/membership_optimisation.png)
 
 ### 4. Profit Impact of Cost and Spending Adjustments
 - Approach: Applied equal percentage adjustments to spending increase and cost decrease (e.g., 10% each).
 - Findings: Profit increases from cost reduction were significantly higher than from spending increases, especially in the health and grocery departments.
 - Outcome: Highlighted that these departments suffer from either excessively high costs or low profit margins.
 
-![Targeted Marketing](images/adjusted_profit_analysis.png)
+![Targeted Marketing](Images/adjusted_profit_analysis.png)
 
 ## Dashboard Design
 I constructed a dynamic and interactive dashboard in Power BI that empowers decision-makers to:
