@@ -69,4 +69,4 @@ Despite these constraints, this project successfully transformed raw data into a
 ## Files in the Repository:
 -**`Amazonian.pbix`**: The complete Power BI file that contains the full visualisation, including data preprocessing, modeling, and dashboards.
 - **`dataset/`**: The folder containing the raw Amazonian data.
-- **`images/’**: Contains various dashboard images.
+- **`images/`**: Contains various dashboard images.
