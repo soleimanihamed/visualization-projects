@@ -63,3 +63,10 @@ While the analysis yielded valuable insights, it's important to acknowledge the 
 
 ## Conclusion
 Despite these constraints, this project successfully transformed raw data into actionable intelligence, demonstrating the potential of data visualisation to drive business growth. It provided a roadmap for future data-driven initiatives, showcasing the pivotal role of analytics in enhancing customer satisfaction and driving success.
+
+---
+
+## Files in the Repository:
+-**`Amazonian.pbix`**: The complete Power BI file that contains the full visualisation, including data preprocessing, modeling, and dashboards.
+- **`dataset/`**: The folder containing the raw Amazonian data.
+- **`images/’**: Contains various dashboard images.
